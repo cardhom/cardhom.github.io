@@ -25,7 +25,7 @@ Il catalogo dei negozi è incluso nell'app: non viene scaricato da internet e l'
 
 ### Backup del telefono
 
-Se hai attivato il backup del dispositivo (Backup di Google su Android, iCloud su iPhone), il sistema operativo può includere anche i dati di CardHom nel tuo backup personale. Il backup è gestito da Google o Apple nel tuo account, secondo le loro condizioni: noi non vi abbiamo accesso.
+Se hai attivato il backup del dispositivo (Backup di Google su Android, iCloud su iPhone), il sistema operativo può includere anche i dati di CardHom nel tuo backup personale, compresi i dati dell'apprendimento dei negozi (le posizioni in cui usi le carte). Se cancelli questi dati dalle impostazioni, il backup successivo li sovrascrive. Il backup è gestito da Google o Apple nel tuo account, secondo le loro condizioni: noi non vi abbiamo accesso.
 
 ## Permessi richiesti
 

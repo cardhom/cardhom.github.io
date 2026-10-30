@@ -25,7 +25,7 @@ The store catalogue ships inside the app: it is not downloaded, and the app neve
 
 ### Phone backups
 
-If you have turned on device backup (Google backup on Android, iCloud on iPhone), the operating system may include CardHom's data in your personal backup. That backup is handled by Google or Apple in your account, under their terms: we have no access to it.
+If you have turned on device backup (Google backup on Android, iCloud on iPhone), the operating system may include CardHom's data in your personal backup, including store-learning data (the places where you use your cards). If you clear this data in the settings, the next backup overwrites it. That backup is handled by Google or Apple in your account, under their terms: we have no access to it.
 
 ## Permissions
 
